@@ -1,0 +1,22 @@
+/*
+     FILE ARCHIVED ON 21:55:07 Oct 21, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 6:21:18 Nov 26, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*********************************************************
+-------------------------- Haze --------------------------
+Design: apopagasm
+CSS: Exanurous
+Build: 37
+Bug Reports: forums.php?action=viewthread&threadid=189200
+Style derived from Gazelle Postmod
+*********************************************************/
+
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,bold);
+@import url(https://dl.dropboxusercontent.com/s/b07c370ihyyb9d4/dark_mono_style.css);
+
+/* Background Image */
+body {background-image: url('/web/20151021215507/http://i.imgur.com/0YrbXGV.png');}
