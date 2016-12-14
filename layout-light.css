@@ -1999,7 +1999,6 @@ div[class~=tooltipster-content]>a {
     background-position: 0 6px;
     background-repeat: no-repeat;
     display: inline-block;
-    width: 8px
 }
 
 .vote_tag_up, .vote_tag_down {
@@ -2009,7 +2008,6 @@ div[class~=tooltipster-content]>a {
 
 .vote_artist_up, .vote_album_up, .vote_artist_down, .vote_album_down {
     color: transparent !important
-    width: 12px !important;
     background-position: 0 4px !important
 }
 
