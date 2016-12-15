@@ -2008,7 +2008,6 @@ div[class~=tooltipster-content]>a {
 
 .vote_artist_up, .vote_album_up, .vote_artist_down, .vote_album_down {
     color: transparent !important
-    background-position: 0 4px !important
 }
 
 .vote_artist_up, .vote_album_up {
